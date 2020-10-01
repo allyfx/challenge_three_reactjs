@@ -27,6 +27,6 @@ In the third challenge student must built an application by praticiting what lea
 - <a href="https://github.com/allyfx/challenge_six_nodejs">Challenge 06 - Database and files upload with Node</a>
 - <a href="https://github.com/allyfx/challenge_seven_reactjs">Challenge 07 - React fundamentals</a>
 - <a href="https://github.com/allyfx/challenge_eight_reactnative">Challenge 08 - React native fundamentals</a>
-- <a>Challenge 09 - Database relationships in Node (coming soon)</a>
+- <a href="https://github.com/allyfx/challenge_nine_node">Challenge 09 - Database relationships in Node</a>
 - <a>Challenge 10 - CRUD in React (coming soon)</a>
 - <a>Challenge 11 - React native navigation and filters (coming soon)</a>
